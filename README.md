@@ -35,11 +35,11 @@ This is a group project for the course CSCI3100 Software Engineering 2023/24. Th
 
 Group A2:
 
-- Cheng Yu Shing 1155158488
-- Ho Hon Lung 1155151893
-- Lam Chi Fung 1155159343
-- Lo Hoa Tsun 1155158762
-- Wu Ka Tung 1155157687
+- Cheng Yu Shing 1155158488 [@LilAiluropoda](https://github.com/LilAiluropoda)
+- Ho Hon Lung 1155151893 [@Hillllllllton](https://github.com/Hillllllllton)
+- Lam Chi Fung 1155159343 [@felixfung203](https://github.com/felixfung203)
+- Lo Hoa Tsun 1155158762 [@locolin1204](https://github.com/locolin1204)
+- Wu Ka Tung 1155157687 [@NiCkWKT](https://github.com/NiCkWKT)
 
 ## 3. <a name='ProjectStructure'></a>Project Structure
 
