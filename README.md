@@ -19,7 +19,7 @@
 
 ## 1. <a name='Description'></a>Description
 
-This is a group project for the course CSCI3100 Software Engineering. The project is a online sneaker shopping platform. The platform is designed for sneaker lovers to buy and sell sneakers. The platform is built with:
+This is a group project for the course CSCI3100 Software Engineering 2023/24. The project is a online sneaker shopping platform. The platform is designed for sneaker lovers to buy and sell sneakers. The platform is built with:
 
 - Frontend: SvelteKit
 - Backend:
@@ -32,6 +32,8 @@ This is a group project for the course CSCI3100 Software Engineering. The projec
 - Deployment: AWS with Terraform
 
 ## 2. <a name='TeamMembers'></a>Team Members
+
+Group A2:
 
 - Cheng Yu Shing 1155158488
 - Ho Hon Lung 1155151893
