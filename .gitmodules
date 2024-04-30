@@ -1,0 +1,15 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:9KicksXCUmart/9KicksShop.git
+[submodule "kotlin-backend"]
+	path = kotlin-backend
+	url = git@github.com:9KicksXCUmart/9Kicks-Mircoservices-Kotlin.git
+[submodule "go-backend"]
+	path = go-backend
+	url = git@github.com:9KicksXCUmart/9Kicks-Mircoservices-Go.git
+[submodule "admin-panel"]
+	path = admin-panel
+	url = git@github.com:9KicksXCUmart/9Kicks-Admin-Panel.git
+[submodule "IaC"]
+	path = IaC
+	url = git@github.com:9KicksXCUmart/9Kicks-IaC.git
